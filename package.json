@@ -5,8 +5,7 @@
   "description": "Library to interact with an Urbit ship over HTTP",
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/urbit/urbit.git",
-    "directory": "pkg/npm/http-api"
+    "url": "ssh://git@github.com/urbit/js-http-api.git"
   },
   "type": "module",
   "main": "dist/cjs/index.cjs",
